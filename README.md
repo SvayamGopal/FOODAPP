@@ -1,4 +1,7 @@
 # FoodNest (Online Food Ordering App)
+FoodNest is an online food ordering and management system where the customers can select their desired food items from an interactive menu.
+It comprises of both Consumer and Admin side interface.<br>
+Made using <b>PHP</b> and <b>MySql</b>
 <h2>Foodnest Home Page</h2>
 <img src= "images/2021-06-15 (21).png" height="400">
 <h2>Sign-Up and Log-in</h2>
@@ -9,7 +12,7 @@
 <h3>Forgot Password</h3>
 <img src= "images/2021-06-15 (34).png" height="400">
 
-<h2>User Side</h2>
+<h2>User Side Interface</h2>
 <h3>Home Page</h3>
 <img src= "images/2021-06-15 (24).png" height="400">
 <h3>Add to Cart</h3>
@@ -19,7 +22,7 @@
 <h3>All Orders</h3>
 <img src= "images/2021-06-15 (35).png" height="400">
 
-<h2>Admin Side</h2>
+<h2>Admin Side Interface</h2>
 <h3>Login</h3>
 Admin email- admin@foodnest.com<br>
 Admin password- admin<br><br>
